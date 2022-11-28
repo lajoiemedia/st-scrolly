@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/yongjun21/st-scrolly#readme",
   "dependencies": {
-    "@angular/core": "~8.2.5"
+    "@angular/core": "~15.0.1"
   }
 }
